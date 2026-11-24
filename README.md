@@ -56,17 +56,20 @@ ratios tell you which property broke.
 ## How to use these
 
 1. Skim the six steps in sheet 01 before any design round; they keep you from drawing before asking.
-2. Pull the two or three sheets whose component your design actually needs.
-3. Say the trade-off out loud in the sentence from sheet 01 §8 — "I chose X over Y because A matters
+2. Open the blank [45-Minute HLD Interview Answer Template](templates/45-min-hld-interview-template.md) to time-box your scope, capacity math, APIs, and failure-mode deep dives.
+3. Pull the two or three sheets whose component your design actually needs.
+4. Say the trade-off out loud in the sentence from sheet 01 §8 — "I chose X over Y because A matters
    more than B; the cost is C; I would revisit it when D."
-4. For practice, write your own answer first and compare it with a reference design afterwards.
+5. For practice, write your own answer first and compare it with a reference design afterwards.
 
 ## Who made this
 
 DigitalYogi Lab (OPC) Private Limited builds interview practice for working Java and Spring Boot
 backends — DSA patterns, HLD, LLD and Spring AI engineering, with AI grading against senior model
 answers. The sheets are the reference; the practice app is at
-[kb.digitalyogi.tech](https://kb.digitalyogi.tech/).
+[kb.digitalyogi.tech](https://kb.digitalyogi.tech/?utm_source=github&utm_medium=readme&utm_campaign=system_design_templates)
+(and new free sheets + HLD/Spring AI series updates go out via
+[learn.digitalyogi.tech/system](https://learn.digitalyogi.tech/system?utm_source=github&utm_medium=readme&utm_campaign=system_design_templates)).
 
 ## Licence
 
