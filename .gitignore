@@ -1,0 +1,17 @@
+# Build output
+*.class
+out/
+target/
+build/
+
+# Editors and OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch
+*.tmp
+scratch/
