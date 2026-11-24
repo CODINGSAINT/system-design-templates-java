@@ -1,0 +1,6 @@
+# Normalise line endings so the sheets read the same on every clone.
+* text=auto eol=lf
+
+*.md text eol=lf
+*.java text eol=lf
+*.pdf binary
